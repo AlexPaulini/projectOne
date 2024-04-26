@@ -5,7 +5,8 @@ List of [Free APIs](https://github.com/public-api-lists/public-api-lists?tab=rea
 ## Asset Inventory Management System:
 > [!NOTE]
 > I asked ChatGPT for ideas, I really liked this one.
-> Nevermine, forgot you're on dorm network.
+>
+> Nevermind, forgot you're on dorm network.
 
 An Asset Inventory Management System is a centralized repository for keeping track of all IT assets within an organization's network infrastructure. These assets can include network devices (routers, switches, firewalls), servers (physical and virtual), endpoints (workstations, laptops, mobile devices), software applications, and other network resources.
 
