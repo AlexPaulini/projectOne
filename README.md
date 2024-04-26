@@ -6,7 +6,7 @@ List of [Free APIs](https://github.com/public-api-lists/public-api-lists?tab=rea
 > [!NOTE]
 > I asked ChatGPT for ideas, I really liked this one.
 
-```An Asset Inventory Management System is a centralized repository for keeping track of all IT assets within an organization's network infrastructure. These assets can include network devices (routers, switches, firewalls), servers (physical and virtual), endpoints (workstations, laptops, mobile devices), software applications, and other network resources.
+An Asset Inventory Management System is a centralized repository for keeping track of all IT assets within an organization's network infrastructure. These assets can include network devices (routers, switches, firewalls), servers (physical and virtual), endpoints (workstations, laptops, mobile devices), software applications, and other network resources.
 
 Implementation using Python and APIs:
 
@@ -31,4 +31,4 @@ Here's a high-level overview of how you could implement an Asset Inventory Manag
 - Implement automation scripts and workflows to automate asset management tasks such as asset provisioning, decommissioning, and lifecycle management.
 - Integrate with IT service management (ITSM) systems or IT automation platforms using APIs to streamline asset management processes and ensure alignment with ITIL (Information Technology Infrastructure Library) best practices.
 
-By implementing an Asset Inventory Management System using Python and APIs, organizations can gain visibility into their IT assets, improve asset tracking and management processes, enhance security posture, and support compliance requirements.```
+By implementing an Asset Inventory Management System using Python and APIs, organizations can gain visibility into their IT assets, improve asset tracking and management processes, enhance security posture, and support compliance requirements.
